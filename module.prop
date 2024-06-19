@@ -4,4 +4,4 @@ version=v6.6.6
 versionCode=0101001
 author=ITermSec
 description=No required applications such as AdAway on Magisk, KernelSU and APatch to use this module.
-updateJson=https://github.com/ITermSec/KernelSU-Hosts/raw/main/update.json
+updateJson=127.0.0.1
